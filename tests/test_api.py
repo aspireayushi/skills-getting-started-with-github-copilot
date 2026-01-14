@@ -1,5 +1,4 @@
 """Tests for the Mergington High School API endpoints"""
-import pytest
 
 
 class TestRootEndpoint:
